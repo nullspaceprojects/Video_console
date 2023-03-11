@@ -8,7 +8,7 @@ Folder: GoogleDrive BlackMagicTastiera/python
 7) Inside this drive find the "lib" folder. Copy inside the "lib" folder the folder 	"adafruit_hid" found in 5).
 8) Download the main script "code.py" that is inside the "code" folder
 9) Inside CIRCUITPY drive of the plugged Pico, copy (or replace) the python script "code.py" just downloaded
-10) Download and Install "MuEditor-win64-1.2.0.msi", the IDE to write our python scripts for the Pico
+10) Download and Install "MuEditor-win64-1.2.0.msi", the IDE to write our python scripts for the Pico (https://codewith.mu/)
 11) Once Installed, Open it and click the Mode botton (upper left in the Mu program). Choose CircuitPython as programming language.
 12) With the Mu editor you can open the code.py code and edit it. If the Pico is plugged in, you can directly download the modified code in the Pico. Moreover you can open the serial to print what the Pico is writing.
 13) To Uninstall the CircuitPython from the Pico, hold the Pico Button, connect the board to PC, release the Pico Button, copy the flash_nuke.uf2 inside folder that appears.
