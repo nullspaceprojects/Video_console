@@ -1,4 +1,4 @@
-Folder: GoogleDrive BlackMagicTastiera/python
+
 1) Download CircuiPython: adafruit-circuitpython-raspberry_pi_pico-it_IT-8.0.2.uf2
 2) Plug In the Pico and Load the above uf2 file in the Pico drive that appears
 3) The Pico drive will disappear and a new disk drive called CIRCUITPY will appear.
